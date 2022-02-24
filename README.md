@@ -2,7 +2,7 @@
 Links e Ferramentas Utéis especialmente para Alunos de Graduação, Mestrado, Doutorado.
 
 ## Para apresentações e design em geral:
-- http://canva.com / 
+- http://canva.com 
 - http://genially.com
 - http://slidesgo.com 
 - https://wepik.com/
@@ -27,8 +27,8 @@ Links e Ferramentas Utéis especialmente para Alunos de Graduação, Mestrado, D
 
 ## Para ajudar com a escrita:
 - https://smodin.io/ (reescreve textos)
-- phrasebank.manchester.ac.uk (dicas de como começar um frase)
-- writewords.org.uk/word_count.asp (para identificar palavras repetidas)
+- https://phrasebank.manchester.ac.uk (dicas de como começar um frase)
+- https://writewords.org.uk/word_count.asp (para identificar palavras repetidas)
 
 ## Para textos em inglês:
 - http://grammarly.com (corrigir texto)
@@ -38,8 +38,8 @@ Links e Ferramentas Utéis especialmente para Alunos de Graduação, Mestrado, D
 
 ## Para referências:
 - https://more.ufsc.br/ (para fazer referências)
-- mendeley.com (para organizar referências)
-- bibcitation.com (para organizar referências)
+- https://mendeley.com (para organizar referências)
+- https://bibcitation.com (para organizar referências)
 
 ## Para acessar artigos:
 - https://sci-hub.se/(com doi)
