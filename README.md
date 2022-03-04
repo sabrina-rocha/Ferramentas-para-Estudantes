@@ -22,8 +22,8 @@ Links e Ferramentas Utéis especialmente para Alunos de Graduação, Mestrado, D
 - http://docs.google.com/drawings
 
 ## Para sinônimos:
-- https://www.sinonimos.com.br
-- https://www.thesaurus.com/
+- https://www.sinonimos.com.br (português)
+- https://www.thesaurus.com/ (inglês)
 
 ## Para ajudar com a escrita:
 - https://smodin.io/ (reescreve textos)
