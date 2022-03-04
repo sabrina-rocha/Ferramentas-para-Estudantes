@@ -42,13 +42,14 @@ Links e Ferramentas Utéis especialmente para Alunos de Graduação, Mestrado, D
 - https://bibcitation.com (para organizar referências)
 
 ## Para acessar artigos:
-- https://sci-hub.se/(com doi)
+- https://sci-hub.se/ (com doi)
 - https://libgen.is
 - http://unpaywall.com (acesso livre a artigos e livros pagos)
 
 ## Para se organizar:
 - http://trello.com
 - https://www.notion.so
+- https://brisqi.com/
 
 ## Para converter documentos, pdf em docx vice versa. Dividir e organizar pdf:
 - https://ilovepdf.com
