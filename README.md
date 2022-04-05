@@ -13,6 +13,7 @@ Links e Ferramentas Utéis especialmente para Alunos de Graduação, Mestrado, D
 - http://rawgraphs.com
 - http://venngage.com 
 - http://lucidchart.com
+- https://miro.com/
 
 ## Para fazer Mapas: 
 - http://mapchart.com 
