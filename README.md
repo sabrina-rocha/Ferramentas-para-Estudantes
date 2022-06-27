@@ -51,6 +51,7 @@ Links e Ferramentas Utéis especialmente para Alunos de Graduação, Mestrado, D
 - http://trello.com
 - https://www.notion.so
 - https://brisqi.com/
+- https://keep.google.com/u/0/#home
 
 ## Para converter documentos, pdf em docx vice versa. Dividir e organizar pdf:
 - https://ilovepdf.com
