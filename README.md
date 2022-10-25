@@ -7,6 +7,7 @@ Links e Ferramentas Utéis especialmente para Alunos de Graduação, Mestrado, D
 - http://slidesgo.com 
 - https://wepik.com/
 - https://biorender.com/
+- https://www.trakto.io/
 
 
 ## Para fazer Gráficos e Fluxogramas: 
